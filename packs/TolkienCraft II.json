@@ -8,7 +8,7 @@
 		"version": "2.8.5",
 		"changelogUrl": "http://www.tolkiencraft.com/?p=1212",
 		"mcVersion": "1.7.10",
-		"forgeVersion": "10.13.4.1558",
+		"forgeVersion": "1.7.10-10.13.4.1558-1.7.10",
 		"overrideUrl": "https://github.com/GreatOrator/TolkienCraftII/releases/download/v2.8.5/TRTolkienCraftIIv2.8.5.zip",
 		"mods": [{
 			"name": "AsieLib",
